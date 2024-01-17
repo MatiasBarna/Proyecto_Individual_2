@@ -1,4 +1,1 @@
-# Horizontal-Swiper 
-For starting screen
-# npm install
-![descarga](https://github.com/MatiasBarna/Proyecto_Individual_2/assets/126587042/7a05c660-9f93-4984-8906-1f8141bb41a0)
+![1](https://github.com/MatiasBarna/Proyecto_Individual_2/assets/126587042/b344eb83-5e37-4b31-969a-410119506039)
